@@ -21,10 +21,10 @@
     "ba2tk": "Nexus-Mods/node-ba2tk",
     "bluebird": "^3.5.1",
     "copyfiles": "^1.2.0",
-    "electron-rebuild": "^1.5.7",
-    "vortex-api": "Nexus-Mods/vortex-api",
+    "electron-rebuild": "^1.7.3",
     "rimraf": "^2.6.1",
     "rm-local-modules": "^0.0.2",
+    "vortex-api": "Nexus-Mods/vortex-api",
     "webpack": "^1.13.2"
   }
 }
