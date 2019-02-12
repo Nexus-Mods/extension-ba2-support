@@ -145,8 +145,8 @@ aws4@^1.6.0:
   resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.7.0.tgz#d4d0e9b9dbfca77bf08eeb0a8a471550fe39e289"
 
 ba2tk@Nexus-Mods/node-ba2tk:
-  version "1.0.1"
-  resolved "https://codeload.github.com/Nexus-Mods/node-ba2tk/tar.gz/1f93dbd43ecf8b2142a73b99081b0bc0898fa6ed"
+  version "1.0.2"
+  resolved "https://codeload.github.com/Nexus-Mods/node-ba2tk/tar.gz/cc9f1efe037f1a22391e2b8e8d7866590ec4c565"
   dependencies:
     autogypi "^0.2.2"
     nbind "^0.3.15"
@@ -1692,8 +1692,8 @@ vm-browserify@0.0.4:
     indexof "0.0.1"
 
 vortex-api@Nexus-Mods/vortex-api:
-  version "0.16.11-pre.1"
-  resolved "https://codeload.github.com/Nexus-Mods/vortex-api/tar.gz/1e6d904f8f5bb6ffbe02019c00c36a7318ef1939"
+  version "0.17.2-r1"
+  resolved "https://codeload.github.com/Nexus-Mods/vortex-api/tar.gz/3777916348d8703b994e2c1a038190d0cb929dae"
 
 watchpack@^0.2.1:
   version "0.2.9"
