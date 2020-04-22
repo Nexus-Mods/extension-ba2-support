@@ -1,5 +1,5 @@
 import loadBA2, {BA2Archive} from 'ba2tk';
-import * as Promise from 'bluebird';
+import Promise from 'bluebird';
 import { types, util } from 'vortex-api';
 
 const loadBA2async = Promise.promisify(loadBA2);
