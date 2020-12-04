@@ -359,8 +359,8 @@ aws4@^1.8.0:
   integrity sha512-3YDiu347mtVtjpyV3u5kVqQLP242c06zwDOgpeRnybmXlYYsLbtTrUBUm8i8srONt+FWobl5aibnU1030PeeuA==
 
 ba2tk@Nexus-Mods/node-ba2tk:
-  version "1.0.5"
-  resolved "https://codeload.github.com/Nexus-Mods/node-ba2tk/tar.gz/ef86e156c75b0447e7f66a447cb637a6e1907454"
+  version "1.0.6"
+  resolved "https://codeload.github.com/Nexus-Mods/node-ba2tk/tar.gz/20a52508ba4839acef411e4e43eba7cc6395e9d8"
   dependencies:
     autogypi "^0.2.2"
     nbind TanninOne/nbind
