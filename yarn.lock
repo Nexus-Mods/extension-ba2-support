@@ -358,9 +358,9 @@ aws4@^1.8.0:
   resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.10.0.tgz#a17b3a8ea811060e74d47d306122400ad4497ae2"
   integrity sha512-3YDiu347mtVtjpyV3u5kVqQLP242c06zwDOgpeRnybmXlYYsLbtTrUBUm8i8srONt+FWobl5aibnU1030PeeuA==
 
-ba2tk@Nexus-Mods/node-ba2tk:
-  version "1.0.6"
-  resolved "https://codeload.github.com/Nexus-Mods/node-ba2tk/tar.gz/20a52508ba4839acef411e4e43eba7cc6395e9d8"
+ba2tk@Nexus-Mods/node-ba2tk#v1:
+  version "1.0.7"
+  resolved "https://codeload.github.com/Nexus-Mods/node-ba2tk/tar.gz/acc31810714fc5abb0445536a8b65b4720c147bd"
   dependencies:
     autogypi "^0.2.2"
     nbind TanninOne/nbind

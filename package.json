@@ -17,7 +17,7 @@
   "devDependencies": {
     "@types/i18next": "^8.4.0",
     "@types/rimraf": "^0.0.28",
-    "ba2tk": "Nexus-Mods/node-ba2tk",
+    "ba2tk": "Nexus-Mods/node-ba2tk#v1",
     "bluebird": "^3.5.1",
     "copyfiles": "^2.1.1",
     "rimraf": "^2.6.1",
